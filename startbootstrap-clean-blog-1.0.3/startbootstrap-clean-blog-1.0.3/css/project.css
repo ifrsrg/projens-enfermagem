@@ -1,0 +1,11 @@
+      
+      div#centerDiv {
+       	  	text-align: center;
+        }
+    	ul.centerUL {
+        	line-height: 1.4;
+   		}
+    	.centerUL li {
+        	display: inline;
+        	text-align: center;
+   		}
