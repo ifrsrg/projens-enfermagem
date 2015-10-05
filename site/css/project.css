@@ -2,3 +2,9 @@
   width: 955px;
   margin: 0px auto;
 }
+.size-font{
+	font-size: 60px;
+}
+.style-href{
+	text-decoration: none; 
+}
