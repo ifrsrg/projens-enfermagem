@@ -1,11 +1,16 @@
-      
-      div#centerDiv {
-       	  	text-align: center;
-        }
-    	ul.centerUL {
-        	line-height: 1.4;
-   		}
-    	.centerUL li {
-        	display: inline;
-        	text-align: center;
-   		}
+div#centerDiv {
+  	text-align: center;
+ }
+ ul.centerUL {
+  	line-height: 1.4;
+ }
+ .centerUL li {
+   	display: inline;
+   	text-align: center;
+ }
+
+.trial{
+  position: absolute;
+  padding-left: 11%;
+}
+
